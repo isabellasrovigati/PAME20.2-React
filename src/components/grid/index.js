@@ -1,5 +1,7 @@
 import React from "react";
 
+import './styles.css';
+
 function Grid() {
   return (
     <div className="grid-container">

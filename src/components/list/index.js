@@ -1,5 +1,7 @@
 import React from "react";
 
+import './styles.css';
+
 function List({
   class1,
   class2,

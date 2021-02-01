@@ -1,6 +1,9 @@
 import React from "react";
-import List from "./list";
-import Grid from "./grid";
+
+import List from "../list";
+import Grid from "../grid";
+
+import './styles.css';
 
 function Main({ name, ej, coord, course }) {
   return (

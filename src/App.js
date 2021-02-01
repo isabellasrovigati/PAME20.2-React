@@ -1,7 +1,9 @@
 import React from "react";
+
 import Header from "./components/header";
 import Main from "./components/main";
-import "./styles.css";
+
+import "./globalStyles.css";
 
 function App() {
   return (
